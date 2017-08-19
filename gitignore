@@ -1,6 +1,8 @@
 # General Files
 *.txt
-.
+*.rtf
+*.sublime-project
+*.sublime-workspace
 
 
 # End General Files
